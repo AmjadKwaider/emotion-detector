@@ -113,12 +113,6 @@ This project was developed as the final project for the **IBM AI Engineering Pro
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
-## Author
-
-**Ajita Gupta**  
-- GitHub: [@ajitagupta](https://github.com/ajitagupta)
-- Website: [ajitagupta.com](https://ajitagupta.com)
-
 ## Acknowledgments
 
 - IBM Developer Skills Network for the course template and guidance
